@@ -1,7 +1,7 @@
 package br.com.adesozasilva.gofdesigpatterns.abstractfactory;
 
-public enum CustomerStatus {
+public abstract class Button {
 	
-	UNSAVED, SAVED
+	public abstract String render();
 
 }
