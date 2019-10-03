@@ -1,1 +1,1 @@
-# Creation - GoF Design Patterns
+# Creation GoF Design Patterns
