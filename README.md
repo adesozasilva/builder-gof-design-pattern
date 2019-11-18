@@ -8,5 +8,9 @@
 
 - Builder - It is responsible for creating different types of objects **Usage Examples:** When there is different features of the objects or when creating involves many steps.
 
+- Prototype - Create an object based in another exiting object (clone). **Usagen Examples:** When you need to create an object similar to an existing object.
+
+- Sigleton - It is responsible for restricting only one instance of a given object from determinated class. **Usage Examples** When it is necessary to ensure that there is only one object of a class.
+
 ## References
 Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (1994) - *Design Patterns: Elements of Reusable Object-Oriented Software.*	United States: Addison-Wesley Professional Computing Series.
