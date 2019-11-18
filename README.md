@@ -8,5 +8,5 @@
 
 - Builder - It is responsible for creating different types of objects **Usage Examples:** When there is different features of the objects or when creating involves many steps.
 
-###### References
+## References
 Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (1994) - *Design Patterns: Elements of Reusable Object-Oriented Software.*	United States: Addison-Wesley Professional Computing Series.
